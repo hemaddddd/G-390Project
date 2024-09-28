@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hm16/Documents/Unreal Projects/MyProject/G390Project/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
