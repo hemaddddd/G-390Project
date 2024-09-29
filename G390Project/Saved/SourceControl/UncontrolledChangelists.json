@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/hm16/Documents/GitHub/G-390Project/G390Project/Content/Characters/animations/movement/M_Neutral_Run_Loop_B.uasset",
+				"C:/Users/hm16/Documents/GitHub/G-390Project/G390Project/Content/Characters/animations/movement/M_Neutral_Run_Loop_BL.uasset",
+				"C:/Users/hm16/Documents/GitHub/G-390Project/G390Project/Content/Characters/animations/movement/M_Neutral_Run_Loop_BR.uasset",
+				"C:/Users/hm16/Documents/GitHub/G-390Project/G390Project/Content/Characters/animations/movement/M_Neutral_Run_Loop_F.uasset",
+				"C:/Users/hm16/Documents/GitHub/G-390Project/G390Project/Content/Characters/animations/movement/M_Neutral_Run_Loop_FL.uasset",
+				"C:/Users/hm16/Documents/GitHub/G-390Project/G390Project/Content/Characters/animations/movement/M_Neutral_Run_Loop_FR.uasset",
+				"C:/Users/hm16/Documents/GitHub/G-390Project/G390Project/Content/Characters/animations/movement/M_Neutral_Run_Loop_LL.uasset",
+				"C:/Users/hm16/Documents/GitHub/G-390Project/G390Project/Content/Characters/animations/movement/M_Neutral_Run_Loop_LR.uasset",
+				"C:/Users/hm16/Documents/GitHub/G-390Project/G390Project/Content/Characters/animations/movement/M_Neutral_Run_Loop_RL.uasset",
+				"C:/Users/hm16/Documents/GitHub/G-390Project/G390Project/Content/Characters/animations/movement/M_Neutral_Stand_Idle_Loop.uasset",
+				"C:/Users/hm16/Documents/GitHub/G-390Project/G390Project/Content/Characters/animations/movement/BS_StraveMovement.uasset",
+				"C:/Users/hm16/Documents/GitHub/G-390Project/G390Project/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/hm16/Documents/GitHub/G-390Project/G390Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/hm16/Documents/Unreal Projects/MyProject/G390Project/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
